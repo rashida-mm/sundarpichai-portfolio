@@ -5,7 +5,7 @@
 
 }
 nav{
-    background-color:cadetblue;
+    background-color:rgba(20,19,22,255);
     display: block;
     justify-content: center;
     align-items: center;
@@ -31,7 +31,7 @@ nav ul li a{
     justify-content: space-between;
     padding: 35px;
     /* margin: 10px; */
-    color:white;
+    color:blue;
     text-decoration: none;
     font-size:20px;
     height: 100%;
